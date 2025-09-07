@@ -1,6 +1,6 @@
 
-<!--<h1 align="center">Hi there 👋, I'm Sehab</h1>
-<h3 align="center">💻 Aspiring Web Developer | Frontend Developer Learner</h3>
+Hi there 👋, I'm Sehab
+💻 Aspiring Web Developer | Frontend Developer Learner
 
 ---
 
